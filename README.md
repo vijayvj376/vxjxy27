@@ -6,11 +6,10 @@
 - 💻 Aspiring Java Full-Stack Developer
 > "I'm looking to connect professionals to exchange ideas and collaborate on innovative projects."
 
-####Links 🔗:
+### Links 🔗:
  [ LinkedIn](https://www.linkedin.com/in/vijay-t-46184a273/)
  
  
   🛠️**Languages and Tools I use:**
 
- ![java](https://www.linkedin.com/in/vijay-t-46184a273/)
-  
+  <img height="50" width="50" src= "https://www.linkedin.com/in/vijay-t-46184a273/"
